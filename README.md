@@ -5,3 +5,5 @@ CÀI ĐẶT CHƯỜNG TRÌNH<hr>
 - Lỗi:<br>
   + Slug <br>
   + link local chưa update <br>
+Accout: email: xuanthai0304@gmail.com
+              password: 111
